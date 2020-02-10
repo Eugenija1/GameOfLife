@@ -1,6 +1,6 @@
-#Game Of Life
+# Game Of Life
 >"Game Of Life" is an implementation of [Conway's Game of Life](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life).
-##Technologies
+## Technologies
 - Python 3.7
 - pygame 1.9.4
 ## Usage

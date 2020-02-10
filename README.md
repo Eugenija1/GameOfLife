@@ -18,6 +18,6 @@ Controls:
 - user can set his own game rules or choose default mode
 - choose pattern: draw your own, random or from existing
 - counting generation and population os cells
-##Screenshots
+## Screenshots
 
 ![screenshot](images/scrn.png?raw=true "Optional Title")
